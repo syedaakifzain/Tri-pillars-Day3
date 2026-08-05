@@ -12,10 +12,14 @@ class College{
         this.collName=collName;
         this.department=department;
     }
+    void display(){
+        System.out.println(collName+" has dept"+" "+department.deptName);
+    }
 }
 public class AggregationDemo {
     public static void main(String[] args) {
         Department d=new Department("csd");
         College c=new College("biet",d);
+        c.display();
     }
 }
