@@ -87,3 +87,13 @@ git clone https://github.com/syedaakifzain/Tri-pillars-Day3.git
 
 Open the project using IntelliJ IDEA or any Java-compatible IDE.
 
+3. Navigate to
+src → Dayy3 → AggregationDemo.java
+4. Run the program
+
+Run the AggregationDemo class.
+
+📚 Key Takeaway
+
+Aggregation represents a "has-a" relationship where the contained object can exist independently of the container object.
+
