@@ -106,3 +106,8 @@ https://github.com/syedaakifzain/Tri-pillars-Day3
 
 👨‍💻 Author
 
+Syed Aakif Zain
+
+Computer Science & Design Engineering Student
+
+⭐ If you find this repository useful, feel free to explore the other days of my Tri-Pillars journey!
