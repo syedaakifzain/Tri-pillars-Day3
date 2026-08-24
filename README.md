@@ -97,3 +97,12 @@ Run the AggregationDemo class.
 
 Aggregation represents a "has-a" relationship where the contained object can exist independently of the container object.
 
+This Day 3 practice helped strengthen my understanding of Java OOP and object relationships.
+
+🔗 Repository
+
+GitHub:
+https://github.com/syedaakifzain/Tri-pillars-Day3
+
+👨‍💻 Author
+
